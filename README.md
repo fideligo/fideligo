@@ -2,7 +2,8 @@
 <h3 align="center">Sophomore CS @ Univ. of Indonesia. Software Engineer exploring AI-Native application development.</h3>
 
 # 🚀 What I'm Up To
-💻 Building dynamic web & mobile applications for organizational projects<br>🧠 Exploring how to integrate Generative AI into modern app architectures
+- 💻 Building dynamic web & mobile applications for organizational projects
+- 🧠 Exploring how to integrate Generative AI into modern app architectures
 
 
 ## 🌐 Connect with me
